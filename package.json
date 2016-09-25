@@ -1,6 +1,6 @@
 {
   "name": "es6-angular-directive-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A directive to use highlight.js in angularjs",
   "scripts": {
     "build": "webpack",
